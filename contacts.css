@@ -1,0 +1,76 @@
+.main{
+    background-color: grey;
+}
+.title{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.nav{
+    display: flex;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: xx-large;
+}
+.home{
+    font-size: x-large;
+    padding-left: 40vh;
+
+}
+.about{
+    font-size: x-large;
+    padding-left: 20vh;
+}
+.projects{
+    font-size: x-large;
+    padding-left: 20vh;
+}
+.contacts{
+    font-size: x-large;
+    padding-left: 20vh;
+}
+.cont{
+    padding-left: 55vh;
+    padding-top: 60px;
+   
+    
+}
+.con{
+    width: 100vh;
+    height: 50vh;
+    background-color: white;
+    box-shadow: 30px 20px 20px 20px;
+    border-radius: 20px;
+    border-color: black;
+    border-width: 10px;
+    transform: scale(1.1);
+    transition-property: all;
+    
+}
+
+.mail{
+    padding-left: 30px;
+    padding-top: 30px;
+    display: flex;
+}
+#p1{
+    padding-left: 70px;
+    display: flex;
+}
+.Mobile{
+    padding-left: 30px;
+    display: flex;
+}
+#p2{
+    padding-left: 70px;
+    display: flex;
+}
+.linked{
+    padding-left: 30px;
+    display: flex;
+}
+#p3{
+    padding-left: 70px;
+    display: flex;
+}

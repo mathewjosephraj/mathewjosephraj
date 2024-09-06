@@ -1,0 +1,63 @@
+.main{
+    background-color: grey;
+}
+.head{
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+.nav{
+    display: flex;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: xx-large;
+}
+.home{
+    font-size: x-large;
+    padding-left: 40vh;
+
+}
+.about{
+    font-size: x-large;
+    padding-left: 20vh;
+}
+.projects{
+    font-size: x-large;
+    padding-left: 20vh;
+}
+.contacts{
+    font-size: x-large;
+    padding-left: 20vh;
+}
+.contain{
+    width: 40vh;
+    height: 30vh;
+    background-color: white;
+}
+.image{
+    display: flex;
+    padding-left: 60px;
+    gap: 40px;
+}
+.con{
+    background-color: white;
+    width: 120vh;
+    border-radius: 30px;
+    
+}
+#con{
+    padding-left: 50px;
+}
+h1{
+    text-align: center;
+    font-size: 40;
+    text-shadow: 30px 30px 20px ;
+    padding-right: 20px;
+}
+p{
+    font-size: 30;
+    text-indent: 30px;
+    text-align: justify;
+    padding-right: 20px;
+}

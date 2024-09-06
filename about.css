@@ -1,0 +1,70 @@
+.main{
+    background-color: grey;
+}
+.intro{
+    text-align: center;
+    background-color: black;
+    color: white;
+
+}
+#h1{
+    font-size:50;
+    font-style: italic;
+}
+.nav{
+    display: flex;
+    gap: 150px;
+    font-size: 27;
+    background-color: black;
+    color: white;
+}
+.home{
+    padding-left: 30vh;
+}
+.image{
+    width: 20vh;
+    height: 50vh;
+    display: flex;
+    padding-left: 100px;
+    padding-top: 30px;
+}
+.body{
+    width: 50vh;
+    height: 50vh;
+    background-color: white;
+    padding-left: 40px;
+
+}
+.pad{
+    padding-left: 40vh;
+    padding-bottom: 40vh;
+}
+#con{
+    background-color:white;
+    width: 120vh;
+    height: 50vh; 
+    border-radius: 10vh;
+       
+}
+.con{
+
+    display: flex;
+    padding-left: 20vh;
+}
+.content{
+    text-align: justify;
+    padding-left: 70px;
+    padding-top: 30px;
+}
+.res{
+    padding-top: 50px;
+    padding-left: 120px;
+    color: white;
+    font-size: 20;
+    display: block;
+}
+a{
+    text-decoration: none;
+    font-size: 30;
+    font-weight: bold;
+}
